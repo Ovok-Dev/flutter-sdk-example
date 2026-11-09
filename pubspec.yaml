@@ -1,0 +1,16 @@
+name: ovok_flutter_example
+publish_to: none
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_secure_storage: ^10.3.4
+  ovok_flutter:
+    git:
+      url: https://github.com/Actimi/ovok-flutter-sdk.git
+      ref: development
+      path: packages/ovok_flutter

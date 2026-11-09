@@ -1,0 +1,9 @@
+{
+  "name": "Ovok Flutter SDK",
+  "short_name": "Ovok",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#345e77",
+  "description": "Example app for the Ovok Flutter SDK"
+}
