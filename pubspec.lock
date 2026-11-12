@@ -406,12 +406,11 @@ packages:
   ovok_flutter:
     dependency: "direct main"
     description:
-      path: "packages/ovok_flutter"
-      ref: development
-      resolved-ref: "81e4b14a5a208603b1918c3126858c159ed8328b"
-      url: "https://github.com/Actimi/ovok-flutter-sdk.git"
-    source: git
-    version: "0.2.0"
+      name: ovok_flutter
+      sha256: f699174d0cf7b30b28fafea396241117fc0e623976f185903d096cb598afd4d2
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.2.0-dev.45+e9a8a51"
   ovok_sdk:
     dependency: transitive
     description:
